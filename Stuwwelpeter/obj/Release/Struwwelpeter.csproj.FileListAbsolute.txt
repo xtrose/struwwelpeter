@@ -1,0 +1,304 @@
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\ApplicationIcon.png
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\Background.png
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\Struwwelpeter.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\Struwwelpeter.pdb
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\AppManifest.xaml
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\Struwwelpeter.xap
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\App.g.i.cs
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\Pages\Feuerzeug\feuerzeug.g.i.cs
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\Pages\Hans\hans.g.i.cs
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\Pages\Jaeger\jaeger.g.i.cs
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\Pages\Kaspar\kaspar.g.i.cs
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\Pages\Konrad\konrad.g.i.cs
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\Pages\Neger\neger.g.i.cs
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\MainPage.g.i.cs
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\Pages\about.g.i.cs
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\Pages\Friederich\friederich.g.i.cs
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\Pages\Philipp\philipp.g.i.cs
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\Pages\Robert\robert.g.i.cs
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\Pages\Struwwelpeter\struwwelpeter.g.i.cs
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\Pages\Vorwort\vorwort.g.i.cs
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\Struwwelpeter.g.resources
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\Struwwelpeter.dll
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\Struwwelpeter.pdb
+C:\Users\MOE\documents\visual studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\obj\Release\XapCacheFile.xml
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Advertising.Mobile.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Advertising.Mobile.xml
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.Maps.xml
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MOE\Documents\Visual Studio 2010\Projects\Stuwwelpeter\Stuwwelpeter\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\ApplicationIcon.png
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Background.png
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Struwwelpeter.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Struwwelpeter.pdb
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\AppManifest.xaml
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Struwwelpeter.xap
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Advertising.Mobile.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Advertising.Mobile.UI.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Expression.Interactions.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\System.Windows.Interactivity.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Advertising.Mobile.xml
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Advertising.Mobile.UI.xml
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Expression.Interactions.xml
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.xml
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\System.Windows.Interactivity.xml
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.Maps.xml
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\App.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Feuerzeug\feuerzeug.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Hans\hans.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Jaeger\jaeger.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Kaspar\kaspar.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Konrad\konrad.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Neger\neger.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\MainPage.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\about.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Friederich\friederich.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Philipp\philipp.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Robert\robert.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Struwwelpeter\struwwelpeter.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Vorwort\vorwort.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Struwwelpeter.g.resources
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Struwwelpeter.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Struwwelpeter.pdb
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\XapCacheFile.xml
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\ApplicationIcon.png
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\Background.png
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\Struwwelpeter.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\Struwwelpeter.pdb
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\AppManifest.xaml
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\Struwwelpeter.xap
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\Microsoft.Advertising.Mobile.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\Microsoft.Advertising.Mobile.UI.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\Microsoft.Expression.Interactions.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\System.Windows.Interactivity.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\Microsoft.Advertising.Mobile.xml
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\Microsoft.Advertising.Mobile.UI.xml
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\Microsoft.Expression.Interactions.xml
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.xml
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\System.Windows.Interactivity.xml
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.Maps.xml
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\App.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\Pages\Feuerzeug\feuerzeug.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\Pages\Hans\hans.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\Pages\Jaeger\jaeger.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\Pages\Kaspar\kaspar.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\Pages\Konrad\konrad.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\Pages\Neger\neger.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\MainPage.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\Pages\about.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\Pages\Friederich\friederich.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\Pages\Philipp\philipp.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\Pages\Robert\robert.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\Pages\Struwwelpeter\struwwelpeter.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\Pages\Vorwort\vorwort.g.cs
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\Struwwelpeter.g.resources
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\Struwwelpeter.dll
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\Struwwelpeter.pdb
+D:\Eigene Dateien\Projekte\Windows 7 Phone\Struwwelpeter\Deutsch\Projekt Ordner\Struwwelpeter 1.3 final\Stuwwelpeter\obj\Release\XapCacheFile.xml
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\ApplicationIcon.png
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Background.png
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Struwwelpeter.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Struwwelpeter.pdb
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\AppManifest.xaml
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Struwwelpeter.xap
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Advertising.Mobile.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Advertising.Mobile.UI.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Expression.Interactions.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\System.Windows.Interactivity.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Advertising.Mobile.xml
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Advertising.Mobile.UI.xml
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Expression.Interactions.xml
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.xml
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\System.Windows.Interactivity.xml
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\Microsoft.Phone.Controls.Maps.xml
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\App.g.cs
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Feuerzeug\feuerzeug.g.cs
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Hans\hans.g.cs
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Jaeger\jaeger.g.cs
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Kaspar\kaspar.g.cs
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Konrad\konrad.g.cs
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Neger\neger.g.cs
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\MainPage.g.cs
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Friederich\friederich.g.cs
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Philipp\philipp.g.cs
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Robert\robert.g.cs
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Struwwelpeter\struwwelpeter.g.cs
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Vorwort\vorwort.g.cs
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Struwwelpeter.g.resources
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Struwwelpeter.dll
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Struwwelpeter.pdb
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\XapCacheFile.xml
+D:\Eigene Dateien\Projekte\Windows Phone\Struwwelpeter\Projekt Ordner\Struwwelpeter\Stuwwelpeter\obj\Release\Pages\Support.g.cs

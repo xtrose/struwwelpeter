@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{16003F3F-ED4F-4B4B-83BA-01784741A294}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Struwwelpeter</RootNamespace>
+    <AssemblyName>Struwwelpeter</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <TargetFrameworkProfile>WindowsPhone71</TargetFrameworkProfile>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>Struwwelpeter.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>Struwwelpeter.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Advertising.Mobile, Version=6.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Advertising.Mobile.UI, Version=6.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Expression.Interactions, Version=3.8.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone" />
+    <Reference Include="Microsoft.Phone.Controls, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Interop" />
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="Microsoft.Xna.Framework.Input.Touch" />
+    <Reference Include="System.Windows" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Windows.Interactivity, Version=3.8.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml" />
+    <Reference Include="mscorlib.extensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SetPivotIndexAction.cs" />
+    <Compile Include="Controls\NavigateToPivotAction.cs" />
+    <Compile Include="Pages\Feuerzeug\feuerzeug.xaml.cs">
+      <DependentUpon>feuerzeug.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Hans\hans.xaml.cs">
+      <DependentUpon>hans.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Jaeger\jaeger.xaml.cs">
+      <DependentUpon>jaeger.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Kaspar\kaspar.xaml.cs">
+      <DependentUpon>kaspar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Konrad\konrad.xaml.cs">
+      <DependentUpon>konrad.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Neger\neger.xaml.cs">
+      <DependentUpon>neger.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Friederich\friederich.xaml.cs">
+      <DependentUpon>friederich.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Philipp\philipp.xaml.cs">
+      <DependentUpon>philipp.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Robert\robert.xaml.cs">
+      <DependentUpon>robert.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Struwwelpeter\struwwelpeter.xaml.cs">
+      <DependentUpon>struwwelpeter.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Support.xaml.cs">
+      <DependentUpon>Support.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Vorwort\vorwort.xaml.cs">
+      <DependentUpon>vorwort.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="Pages\Feuerzeug\feuerzeug.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Hans\hans.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Jaeger\jaeger.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Kaspar\kaspar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Konrad\konrad.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Neger\neger.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Friederich\friederich.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Philipp\philipp.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Robert\robert.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Struwwelpeter\struwwelpeter.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Support.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Vorwort\vorwort.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\Struwwelpeter\struwwelpeter.jpg" />
+    <Resource Include="Images\Neger\neger1.jpg" />
+    <Resource Include="Images\Neger\neger2.jpg" />
+    <Resource Include="Images\Neger\neger3.jpg" />
+    <Resource Include="Images\Neger\neger4.jpg" />
+    <Resource Include="Images\Feuerzeug\feuerzeug1.jpg" />
+    <Resource Include="Images\Feuerzeug\feuerzeug2.jpg" />
+    <Resource Include="Images\Feuerzeug\Feuerzeug3.jpg" />
+    <Resource Include="Images\Feuerzeug\feuerzeug4.jpg" />
+    <Resource Include="Images\Jaeger\jaeger1.jpg" />
+    <Resource Include="Images\Jaeger\jaeger2.jpg" />
+    <Resource Include="Images\Jaeger\jaeger3.jpg" />
+    <Resource Include="Images\Jaeger\jaeger4.jpg" />
+    <Resource Include="Images\Konrad\konrad1.jpg" />
+    <Resource Include="Images\Konrad\konrad2.jpg" />
+    <Resource Include="Images\Konrad\konrad3.jpg" />
+    <Resource Include="Images\Konrad\konrad4.jpg" />
+    <Resource Include="Images\Philipp\philipp1.jpg" />
+    <Resource Include="Images\Philipp\philipp2.jpg" />
+    <Resource Include="Images\Philipp\philipp3.jpg" />
+    <Resource Include="Images\Vorwort\vorwort1.jpg" />
+    <Resource Include="Images\Vorwort\vorwort2.jpg" />
+    <Resource Include="Images\Hans\hans1.jpg" />
+    <Resource Include="Images\Hans\hans2.jpg" />
+    <Resource Include="Images\Hans\hans3.jpg" />
+    <Resource Include="Images\Hans\hans4.jpg" />
+    <Resource Include="Images\Hans\hans5.jpg" />
+    <Resource Include="Images\Hans\hans6.jpg" />
+    <Resource Include="Images\Robert\robert1.jpg" />
+    <Resource Include="Images\Robert\robert2.jpg" />
+    <Resource Include="Images\Robert\robert3.jpg" />
+    <Resource Include="Images\Kaspar\kaspar1.jpg" />
+    <Resource Include="Images\Kaspar\kaspar2.jpg" />
+    <Resource Include="Images\Kaspar\kaspar3.jpg" />
+    <Resource Include="Images\Kaspar\kaspar4.jpg" />
+    <Resource Include="Images\Friederich\friedrich1.jpg" />
+    <Resource Include="Images\Friederich\friedrich2.jpg" />
+    <Resource Include="Images\Friederich\friedrich3.jpg" />
+    <Resource Include="Images\Menu\menu_BG.png" />
+    <Resource Include="Images\Menu\menu_friederich.png" />
+    <Resource Include="Images\Menu\menu_struwwelpeter.png" />
+    <Resource Include="Images\Menu\menu_feuerzeug.png" />
+    <Resource Include="Images\Menu\menue_neger.png" />
+    <Resource Include="Images\Menu\menu_jaeger.png" />
+    <Resource Include="Images\Menu\menu_konrad.png" />
+    <Resource Include="Images\Menu\menu_kaspar.png" />
+    <Resource Include="Images\Menu\menu_hans.png" />
+    <Resource Include="Images\Menu\menu_phillip.png" />
+    <Resource Include="Images\Menu\menu_robert.png" />
+    <Resource Include="Images\Menu\menu_vorwort.png" />
+    <Resource Include="Images\settings.png" />
+    <Content Include="Images\ad.jpg" />
+    <Content Include="Images\buy.png" />
+    <Content Include="Images\Facebook.png" />
+    <Content Include="Images\Menu\menu_xtrose.png" />
+    <Content Include="Images\rate.png" />
+    <Content Include="Images\StartUp\Logo800_1.png" />
+    <Content Include="Images\StartUp\Logo800_2.png" />
+    <Content Include="Images\StartUp\Logo800_2_black.png" />
+    <Content Include="Images\StartUp\Schein.png" />
+    <Content Include="Images\StartUp\Schein_black.png" />
+    <Content Include="Images\Support.Dark.png" />
+    <Content Include="Images\xAd\1.png" />
+    <Content Include="Images\xAd\2.png" />
+    <Content Include="Images\xtrose.png" />
+    <Content Include="SplashScreenImage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\Other\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

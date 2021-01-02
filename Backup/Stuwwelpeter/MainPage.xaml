@@ -1,0 +1,220 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Struwwelpeter.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"                      
+                            
+    xmlns:Custom="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" 
+    xmlns:ic="clr-namespace:Microsoft.Expression.Interactivity.Core;assembly=Microsoft.Expression.Interactions"
+    xmlns:local="clr-namespace:Struwwelpeter"
+                            
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="800"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot ist das Stammraster, in dem alle anderen Seiteninhalte platziert werden-->
+    <Grid x:Name="LayoutRoot" Background="Black">
+
+        
+        
+        <Grid x:Name="ContentPanel" Background="Black" Height="720" VerticalAlignment="Top">
+
+            <!--Pivot Control-->
+            <controls:Pivot Title="STRUWWELPETER" Foreground="White">
+                <!--Pivot item one-->
+                <controls:PivotItem Header="Geschichten">
+                    <!--ContentPanel - zusätzliche Inhalte hier platzieren-->
+                    <Grid VerticalAlignment="Top" Grid.RowSpan="2">
+                        <ScrollViewer>
+                            <StackPanel>
+
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,10" MouseLeftButtonUp="btn_struwwelpeter">
+                                    <StackPanel.Background>
+                                        <ImageBrush ImageSource="/Struwwelpeter;component/Images/Menu/menu_BG.png" Stretch="None" />
+                                    </StackPanel.Background>
+                                    <Image Source="/Struwwelpeter;component/Images/Menu/menu_struwwelpeter.png" Height="80" Width="80" />
+                                    <TextBlock Text=" Struwwelpeter" FontSize="22" Foreground="#FF2B2B2B" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontWeight="Black" FontFamily="Segoe WP Semibold" />
+                                </StackPanel>
+
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,10" MouseLeftButtonUp="btn_friderich">
+                                    <StackPanel.Background>
+                                        <ImageBrush ImageSource="/Struwwelpeter;component/Images/Menu/menu_BG.png" Stretch="None" />
+                                    </StackPanel.Background>
+                                    <Image Source="/Struwwelpeter;component/Images/Menu/menu_friederich.png" Height="80" Width="80" Name="img_friederich" />
+                                    <TextBlock Text=" Der böse Friederich" FontSize="22" Foreground="#FF2B2B2B" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontWeight="Black" FontFamily="Segoe WP Semibold" Name="txt_friederich" />
+                                </StackPanel>
+
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,10" MouseLeftButtonUp="btn_feuerzeug">
+                                    <StackPanel.Background>
+                                        <ImageBrush ImageSource="/Struwwelpeter;component/Images/Menu/menu_BG.png" Stretch="None" />
+                                    </StackPanel.Background>
+                                    <Image Source="/Struwwelpeter;component/Images/Menu/menu_feuerzeug.png" Height="80" Width="80" />
+                                    <TextBlock Text=" Paulinchen und das Feuerzeug" FontSize="23" Foreground="#FF2B2B2B" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontWeight="Black" FontFamily="Segoe WP Semibold" />
+                                </StackPanel>
+
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,10" MouseLeftButtonUp="btn_neger">
+                                    <StackPanel.Background>
+                                        <ImageBrush ImageSource="/Struwwelpeter;component/Images/Menu/menu_BG.png" Stretch="None" />
+                                    </StackPanel.Background>
+                                    <Image Source="/Struwwelpeter;component/Images/Menu/menue_neger.png" Height="80" Width="80" Name="img_neger" />
+                                    <TextBlock Text=" Der schwarze Bube" FontSize="23" Foreground="#FF2B2B2B" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontWeight="Black" FontFamily="Segoe WP Semibold" Name="txt_neger" />
+                                </StackPanel>
+
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,10" MouseLeftButtonUp="btn_jaeger">
+                                    <StackPanel.Background>
+                                        <ImageBrush ImageSource="/Struwwelpeter;component/Images/Menu/menu_BG.png" Stretch="None" />
+                                    </StackPanel.Background>
+                                    <Image Source="/Struwwelpeter;component/Images/Menu/menu_jaeger.png" Height="80" Width="80" />
+                                    <TextBlock Text=" Der wilde Jäger" FontSize="23" Foreground="#FF2B2B2B" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontWeight="Black" FontFamily="Segoe WP Semibold" />
+                                </StackPanel>
+
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,10" MouseLeftButtonUp="btn_konrad">
+                                    <StackPanel.Background>
+                                        <ImageBrush ImageSource="/Struwwelpeter;component/Images/Menu/menu_BG.png" Stretch="None" />
+                                    </StackPanel.Background>
+                                    <Image Source="/Struwwelpeter;component/Images/Menu/menu_konrad.png" Height="80" Width="80" Name="img_konrad" />
+                                    <TextBlock Text=" Der Daumenlutscher" FontSize="23" Foreground="#FF2B2B2B" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontWeight="Black" FontFamily="Segoe WP Semibold" Name="txt_konrad"/>
+                                </StackPanel>
+
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,10" MouseLeftButtonUp="btn_kaspar">
+                                    <StackPanel.Background>
+                                        <ImageBrush ImageSource="/Struwwelpeter;component/Images/Menu/menu_BG.png" Stretch="None" />
+                                    </StackPanel.Background>
+                                    <Image Source="/Struwwelpeter;component/Images/Menu/menu_kaspar.png" Height="80" Width="80" />
+                                    <TextBlock Text=" Der Suppen-Kaspar" FontSize="23" Foreground="#FF2B2B2B" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontWeight="Black" FontFamily="Segoe WP Semibold" />
+                                </StackPanel>
+
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,10" MouseLeftButtonUp="btn_phillip">
+                                    <StackPanel.Background>
+                                        <ImageBrush ImageSource="/Struwwelpeter;component/Images/Menu/menu_BG.png" Stretch="None" />
+                                    </StackPanel.Background>
+                                    <Image Source="/Struwwelpeter;component/Images/Menu/menu_phillip.png" Height="80" Width="80" Name="img_philipp" />
+                                    <TextBlock Text=" Der Zappel-Philipp" FontSize="23" Foreground="#FF2B2B2B" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontWeight="Black" FontFamily="Segoe WP Semibold" Name="txt_philipp" />
+                                </StackPanel>
+
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,10" MouseLeftButtonUp="btn_hans">
+                                    <StackPanel.Background>
+                                        <ImageBrush ImageSource="/Struwwelpeter;component/Images/Menu/menu_BG.png" Stretch="None" />
+                                    </StackPanel.Background>
+                                    <Image Source="/Struwwelpeter;component/Images/Menu/menu_hans.png" Height="80" Width="80" />
+                                    <TextBlock Text=" Hans Guck-in-die-Luft" FontSize="23" Foreground="#FF2B2B2B" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontWeight="Black" FontFamily="Segoe WP Semibold" />
+                                </StackPanel>
+
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,10" MouseLeftButtonUp="btn_robert">
+                                    <StackPanel.Background>
+                                        <ImageBrush ImageSource="/Struwwelpeter;component/Images/Menu/menu_BG.png" Stretch="None" />
+                                    </StackPanel.Background>
+                                    <Image Source="/Struwwelpeter;component/Images/Menu/menu_robert.png" Height="80" Width="80" Name="img_robert" />
+                                    <TextBlock Text=" Der fliegenden Robert" FontSize="23" Foreground="#FF2B2B2B" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontWeight="Black" FontFamily="Segoe WP Semibold" Name="txt_robert"/>
+                                </StackPanel>
+
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,0,0,150" MouseLeftButtonUp="btn_vorwort">
+                                    <StackPanel.Background>
+                                        <ImageBrush ImageSource="/Struwwelpeter;component/Images/Menu/menu_BG.png" Stretch="None" />
+                                    </StackPanel.Background>
+                                    <Image Source="/Struwwelpeter;component/Images/Menu/menu_vorwort.png" Height="80" Width="80" />
+                                    <TextBlock Text=" Vorwort" FontSize="23" Foreground="#FF2B2B2B" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontWeight="Black" FontFamily="Segoe WP Semibold" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ScrollViewer>
+                    </Grid>
+                </controls:PivotItem>
+
+
+
+
+
+                <!--xtrose-->
+                <controls:PivotItem Header="xtrose">
+                    <Grid>
+                        <StackPanel VerticalAlignment="Top">
+                            <StackPanel Orientation="Horizontal" Margin="12,-12,0,20" HorizontalAlignment="Left" VerticalAlignment="Top">
+                                <StackPanel Height="46" Width="46" MouseLeftButtonUp="BtnBuy" >
+                                    <Image Source="/Images/buy.png" Height="46" Width="46" MouseLeftButtonUp="BtnBuy"/>
+                                </StackPanel>
+                                <StackPanel Height="46" Width="298" Margin="12,0,0,0" >
+                                    <TextBlock FontSize="30" Text="Diese App kaufen" Foreground="White" MouseLeftButtonUp="BtnBuy" FontFamily="Segoe WP Light" />
+                                </StackPanel>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="12,0,0,20" HorizontalAlignment="Left" VerticalAlignment="Top">
+                                <StackPanel Height="46" Width="46" MouseLeftButtonUp="BtnRate" >
+                                    <Image Source="/Images/rate.png" Height="46" Width="46" MouseLeftButtonUp="BtnRate" />
+                                </StackPanel>
+                                <StackPanel Height="46" Width="298" Margin="12,0,0,0" >
+                                    <TextBlock FontSize="30" Text="Diese App bewerten" Foreground="White" MouseLeftButtonUp="BtnRate" Margin="0,0,23,0" FontFamily="Segoe WP Light" />
+                                </StackPanel>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="12,0,0,20" HorizontalAlignment="Left" VerticalAlignment="Top">
+                                <StackPanel Height="46" Width="46" MouseLeftButtonUp="BtnFacebook" >
+                                    <Image Source="/Images/Facebook.png" Height="46" Width="46" MouseLeftButtonUp="BtnFacebook" />
+                                </StackPanel>
+                                <StackPanel Height="46" Width="298" Margin="12,0,0,0" >
+                                    <TextBlock FontSize="30" Text="Gefällt mir" Foreground="White" MouseLeftButtonUp="BtnFacebook" Margin="0,0,150,0" FontFamily="Segoe WP Light" />
+                                </StackPanel>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="12,0,0,20" HorizontalAlignment="Left" VerticalAlignment="Top">
+                                <StackPanel Height="46" Width="46" MouseLeftButtonUp="BtnOther" >
+                                    <Image Source="/Images/xtrose.png" Height="46" Width="46" MouseLeftButtonUp="BtnOther" />
+                                </StackPanel>
+                                <StackPanel Height="46" Width="298" Margin="12,0,0,0" MouseLeftButtonUp="BtnOther" >
+                                    <TextBlock FontSize="30" Text="Andere xtrose apps" Foreground="White" MouseLeftButtonUp="BtnOther" Margin="0,0,41,0" FontFamily="Segoe WP Light" />
+                                </StackPanel>
+                            </StackPanel>
+
+                            <StackPanel Margin="12,24,0,0" Orientation="Horizontal">
+                                <Image Source="/Images/Support.Dark.png" Height="45" MouseLeftButtonUp="BtnSupport" />
+                                <TextBlock FontSize="30" Text="Kontakt" Foreground="White" MouseLeftButtonUp="BtnSupport" Margin="12,0,0,0" FontFamily="Segoe WP Light" />
+                            </StackPanel>
+
+                            <TextBlock TextWrapping="Wrap" Margin="12,36,12,0" FontFamily="Segoe WP Light" Foreground="White">Beim Kauf dieser App wird die Werbung ausgeblendet. Kaufen sie diese App und unterstützen sie xtrose bei anderen Projekten.</TextBlock>
+                            <TextBlock TextWrapping="Wrap" Margin="12,0,12,0" FontFamily="Segoe WP Semibold" Foreground="White">Vielen Dank!</TextBlock>
+                        </StackPanel>
+                    </Grid>
+                </controls:PivotItem>
+
+
+
+
+
+                <!--Info-->
+                <controls:PivotItem Header="Info">
+                    <Grid>
+                        <StackPanel VerticalAlignment="Top">
+                            <TextBlock HorizontalAlignment="Left" Text="STRUWWELPETER"  Width="429" FontSize="24" Foreground="White" />
+                            <TextBlock HorizontalAlignment="Left" Margin="12,10,0,0"  Width="429" FontSize="18" Foreground="White" Text="xtrose" />
+                            <TextBlock HorizontalAlignment="Left" Margin="24,0,0,0" Text="xtrose Apps für Windows Phone and Windows 8"  Width="429" FontSize="16" Foreground="White" />
+                            <TextBlock Height="30" HorizontalAlignment="Left" Margin="12,6,0,0" Text="version 1.1"  Width="429" FontSize="18" Foreground="White" />
+                            <TextBlock Height="30" HorizontalAlignment="Left" Margin="24,0,0,0" Text="Bilder" VerticalAlignment="Top" Width="429" FontSize="16" Foreground="White" />
+                            <TextBlock Height="30" HorizontalAlignment="Left" Margin="24,0,0,0" Text="Geschichten" Width="429" FontSize="16" Foreground="White" />
+                            <TextBlock Height="30" HorizontalAlignment="Left" Margin="12,6,0,0" Text="Version 1.2"  Width="429" FontSize="18" Foreground="White" />
+                            <TextBlock Height="30" HorizontalAlignment="Left" Margin="24,0,0,0" Text="Neues Menü" Width="429" FontSize="16" Foreground="White" />
+                            <TextBlock Height="30" HorizontalAlignment="Left" Margin="12,6,0,0" Text="Version 1.3.1"  Width="429" FontSize="18" Foreground="White" />
+                            <TextBlock Height="30" HorizontalAlignment="Left" Margin="24,0,0,0" Text="Jetzt Kostenlos, mit Werbung" Width="429" FontSize="16" Foreground="White" />
+                            <TextBlock Height="30" HorizontalAlignment="Left" Margin="12,6,0,0" Text="Version 1.5.1"  Width="429" FontSize="18" Foreground="White" />
+                            <TextBlock Height="30" HorizontalAlignment="Left" Margin="24,0,0,0" Text="Verbesserungen und Korrekturen" Width="429" FontSize="16" Foreground="White" />
+                            <TextBlock Height="30" HorizontalAlignment="Left" Margin="12,6,0,0" Text="Version 1.6.1"  Width="429" FontSize="18" Foreground="White" />
+                            <TextBlock Height="30" HorizontalAlignment="Left" Margin="24,0,0,0" Text="Neues Impressum" Width="429" FontSize="16" Foreground="White" />
+                        </StackPanel>
+                    </Grid>
+                </controls:PivotItem>
+            </controls:Pivot>
+
+
+        </Grid>
+
+
+        <!--Werbung-->
+        <Image Name="xAdImage" Height="100" Width="480" VerticalAlignment="Bottom" Visibility="Collapsed" MouseLeftButtonUp="xAdImage_MouseLeftButtonUp"/>
+
+    </Grid>
+
+
+</phone:PhoneApplicationPage>
